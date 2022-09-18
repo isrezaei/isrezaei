@@ -1,8 +1,7 @@
+<h1 align="center">Hi I'm here !</h1>
 <h3 align="center">JS programmer and Of course, I am always a student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isrezaei&label=Profile%20views&color=0e75b6&style=flat" alt="isrezaei" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isrezaei" alt="isrezaei" /></a> </p>
 
 - 🌱 I’m currently learning **Avance Typescript and next JS**
 
@@ -22,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isrezaei&show_icons=true&locale=en" alt="isrezaei" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isrezaei&" alt="isrezaei" /></p>
+
