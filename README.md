@@ -24,7 +24,3 @@
 </div>
 
 ###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=isrezaei.isrezaei&left_color=blue"  />
-
-###
