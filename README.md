@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Current challenges :</h2>
+<h3 align="left">Current challenges :</h3>
 
 ###
 
