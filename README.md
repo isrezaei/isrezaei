@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">cons myFavorites = ( ) =></h2>
+<h2 align="left">const myFavorites = ( ) =></h2>
 
 ###
 
