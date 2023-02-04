@@ -1,14 +1,4 @@
-<h1 align="left">Hey Guys I'm Here 👋</h1>
 
-###
-
-<p align="left">Every day I want to learn more in my field of interest, programming and development of web software are my main interests and I am looking for learning more in this field every day<br> I am interested in Typescript and the tool I use most in web development is NextJS, and I believe that these two together make powerful software in the web field. Also, I have experience in web development with React JS. I am interested in React Native for mobile software development as well as mobile programming. I am interested in more curiosity in the field of software engineering. I believe that the world of software engineering is vast, endless, and inexhaustible, and this is the motivation to learn more <br> " DAY BY DAY " 📅<br>I also believe in teamwork. And I believe that human brains can create amazing things in interaction with each other and interacting with each other and using different experiences can lead to our personal growth in any field 💪</p>
-
-###
-
-<h2 align="left">Favorites</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="40" alt="typescript logo"  />
